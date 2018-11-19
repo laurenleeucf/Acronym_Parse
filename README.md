@@ -1,4 +1,4 @@
-# Acronym_Parse
+# QA Acronym Pass in Python
+
 QA Acronym Pass in Python Code
 
-The acronym pass in python
