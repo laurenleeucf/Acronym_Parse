@@ -1,4 +1,4 @@
-# QA Acronym Pass in Python
+#Acronym Pass in Python
 
-QA Acronym Pass in Python Code
+
 
